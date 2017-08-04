@@ -14,6 +14,7 @@
 		73F905A51EB57741008F515D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73F905A31EB57741008F515D /* LaunchScreen.storyboard */; };
 		73F905B01EB57741008F515D /* JSONWeatherHNA2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73F905AF1EB57741008F515D /* JSONWeatherHNA2Tests.swift */; };
 		73F905BB1EB57741008F515D /* JSONWeatherHNA2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73F905BA1EB57741008F515D /* JSONWeatherHNA2UITests.swift */; };
+		73F905C91EB59813008F515D /* qQa5Pd7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73F905C81EB59813008F515D /* qQa5Pd7.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		73F905B61EB57741008F515D /* JSONWeatherHNA2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSONWeatherHNA2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		73F905BA1EB57741008F515D /* JSONWeatherHNA2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONWeatherHNA2UITests.swift; sourceTree = "<group>"; };
 		73F905BC1EB57741008F515D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73F905C81EB59813008F515D /* qQa5Pd7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qQa5Pd7.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				73F9059A1EB57741008F515D /* AppDelegate.swift */,
 				73F9059C1EB57741008F515D /* ViewController.swift */,
 				73F9059E1EB57741008F515D /* Main.storyboard */,
+				73F905C81EB59813008F515D /* qQa5Pd7.jpg */,
 				73F905A11EB57741008F515D /* Assets.xcassets */,
 				73F905A31EB57741008F515D /* LaunchScreen.storyboard */,
 				73F905A61EB57741008F515D /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				73F905A51EB57741008F515D /* LaunchScreen.storyboard in Resources */,
+				73F905C91EB59813008F515D /* qQa5Pd7.jpg in Resources */,
 				73F905A21EB57741008F515D /* Assets.xcassets in Resources */,
 				73F905A01EB57741008F515D /* Main.storyboard in Resources */,
 			);
